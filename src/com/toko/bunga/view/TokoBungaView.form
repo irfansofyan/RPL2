@@ -56,14 +56,14 @@
                       </Group>
                   </Group>
                   <Group type="102" alignment="0" attributes="0">
-                      <EmptySpace min="-2" pref="174" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="136" max="-2" attributes="0"/>
                       <Group type="103" groupAlignment="0" max="-2" attributes="0">
-                          <Component id="btn_delete" max="32767" attributes="0"/>
                           <Component id="btn_save" max="32767" attributes="0"/>
+                          <Component id="btn_delete" pref="107" max="32767" attributes="0"/>
                       </Group>
                       <EmptySpace min="-2" pref="75" max="-2" attributes="0"/>
                       <Group type="103" groupAlignment="0" max="-2" attributes="0">
-                          <Component id="btn_update" max="32767" attributes="0"/>
+                          <Component id="btn_update" pref="121" max="32767" attributes="0"/>
                           <Component id="btn_clear" max="32767" attributes="0"/>
                       </Group>
                   </Group>
@@ -102,14 +102,14 @@
                           <Component id="txtHarga" alignment="3" min="-2" max="-2" attributes="0"/>
                       </Group>
                       <EmptySpace min="-2" pref="55" max="-2" attributes="0"/>
-                      <Group type="103" groupAlignment="3" attributes="0">
-                          <Component id="btn_save" alignment="3" min="-2" max="-2" attributes="0"/>
-                          <Component id="btn_update" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="btn_save" pref="49" max="32767" attributes="0"/>
+                          <Component id="btn_update" max="32767" attributes="0"/>
                       </Group>
-                      <EmptySpace min="-2" pref="42" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
                       <Group type="103" groupAlignment="3" attributes="0">
-                          <Component id="btn_delete" alignment="3" min="-2" max="-2" attributes="0"/>
-                          <Component id="btn_clear" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="btn_delete" alignment="3" min="-2" pref="48" max="-2" attributes="0"/>
+                          <Component id="btn_clear" alignment="3" min="-2" pref="48" max="-2" attributes="0"/>
                       </Group>
                   </Group>
                   <Group type="102" alignment="0" attributes="0">
