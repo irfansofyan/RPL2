@@ -16,8 +16,8 @@ import org.springframework.transaction.annotation.Transactional;
  *
  * @author ASUS
  */
-@Service("TokoBungaService")
-@Transactional(readOnly=true)
+@Service("TokoBungaSevice2")
+@Transactional
 public class TokoBungaServiceImpl implements TokoBungaService {
     @Autowired
     private TokoBungaDao tokoBungaDao;
