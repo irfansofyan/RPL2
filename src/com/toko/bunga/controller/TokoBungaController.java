@@ -16,10 +16,7 @@ import javax.swing.JOptionPane;
     
 
 
-/**
- *
- * @author ASUS
- */
+
 public class TokoBungaController {
     private TokoBungaView tokoBungaView;
     private List<TokoBunga> listTokoBunga;
